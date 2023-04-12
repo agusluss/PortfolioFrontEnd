@@ -23,7 +23,7 @@ body {
     width: 200px;
     height: 200px;
     border-radius: 100px;
-    align-items: center;
+    align-items: left;
 }
 
 img {
@@ -38,4 +38,8 @@ img {
     border-width: 2px;
     border-style: solid;
     border-radius: 15px;
+}
+
+button {
+    align-items: left;
 }
